@@ -1,0 +1,51 @@
+/*.example{
+    background-color: darkmagenta;
+    padding: 30px;
+    text-align: center;
+    margin: 5px;
+    border: 3px dashed crimson;
+}*/
+
+*{
+    transition: all is;
+}
+
+body{
+    padding: 10px;
+    background-color: lightblue;
+}
+
+section{
+    display: flex;
+    flex-direction: row;
+}
+
+img{
+    width: 50px;
+}
+
+#cart{
+    background-color: salmon;
+}
+
+#cart, #items{
+    width: 50vw;
+}
+
+h1{
+    color: aliceblue;
+}
+
+p{
+    color: blueviolet;
+    text-decoration: none;
+}
+
+div{
+    padding: 10px;
+}
+
+#two{
+    background-color: chocolate;
+}
+
